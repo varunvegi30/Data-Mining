@@ -15,7 +15,7 @@ I achieved a __precision of 1.0 and recall of  0.972__
 
 Code can be executed using the following – ./spark-submit LSH.py <input_file_name> <output_file_name> 
 
-## Recommendation System to Predict User Ratings on Unseen Businesses on the yelp dataset.
+## Recommendation System to Predict User Ratings on Unseen Businesses on the yelp dataset
 In this project, I built a recommendation engine in three phases –
 
 ### Case 1: Item-based CF recommendation system with Pearson Similarity
@@ -32,7 +32,7 @@ Code can be executed using the following command – ./spark-submit Hybrid.py <f
 
 __Achieved the lowest RMSE of 0.98 with the Hybrid Recommendation System__
 
-## Community Detection in Large Graphs –
+## Community Detection in Large Graphs
 In this project, I explored the spark GraphFrames library as well as implemented the Girvan-Newman algorithm using the Spark Framework to detect communities in graphs. There are two scripts in this folder –
 
 ### LPA.py
@@ -69,7 +69,7 @@ Achieved an accuracy of __~99%__ on a synthetic test dataset with approximately 
 Code can be executed using the following command – python3 BFR.py <input_file> <n_cluster> <output_file> 
 
 
-_If you need access to the datasets I made use of, please feel free to contact me._
+_If you need access to the datasets I used, contact me._
 
 
 
