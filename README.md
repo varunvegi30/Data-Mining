@@ -1,8 +1,6 @@
 # Data-Mining
 Tech Stack : Python (Pandas, NumPy, PySpark), Spark, XGBoost, Scala
 
-This is a test.
-
 Examples of data mining projects I worked on during my time at USC - including finding frequent itemsets, Locality Sensitive Hashing to find similar items, recommendation systems, Community Detection in large graphs, Streaming Algorithms (Bloom Filtering, Flajolet Martin Algorithm) and BFR algorithm for clustering on large datasets.
 
 ## Finding Frequent Itemsets
